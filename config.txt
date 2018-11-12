@@ -1,6 +1,6 @@
 token=NTExNjUwODAxNzM1Njk2NDE0.Dst_sA.WT5RdZ3q_QXqe1wk3a-xu4_tRkk
 owner=407214903276077057
-prefix=y
-game=Type yhelp
+prefix=Y
+game=Type Yhelp
 stayinchannel=true
 songinstatus=true
